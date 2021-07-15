@@ -1,5 +1,7 @@
 ### Hi, I'm VitasSalvantes👋
 
+![](https://www.codewars.com/users/VitasSalvantes/badges/large)
+
 Coming soon...
 
 
