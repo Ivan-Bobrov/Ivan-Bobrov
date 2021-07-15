@@ -1,4 +1,4 @@
-### Hi, I'm VitasSalvantes👋
+### Hi, I'm Vitas👋
 
 ![](https://www.codewars.com/users/VitasSalvantes/badges/large)
 
