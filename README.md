@@ -15,6 +15,12 @@
 
 ## You can find me ##
 
-[![Codewars](https://www.codewars.com/users/VitasSalvantes/badges/large)](https://www.codewars.com/dashboard)
+[![Codewars](https://www.codewars.com/users/VitasSalvantes/badges/small)](https://www.codewars.com/users/VitasSalvantes/stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true&theme=dark)
+## Some stats ##
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitassalvantes)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitasSalvantes)](https://wakatime.com/dashboard)
