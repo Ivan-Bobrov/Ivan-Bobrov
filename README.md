@@ -1,6 +1,6 @@
 ## Hi, I'm Vitas👋 ##
 
-I'm beginning Software Developer in the field of Mobile and Web Development. I'm currently studying Android Development and attending [a course from Google](https://developer.android.com/courses/android-basics-kotlin/course).
+I'm beginning Software Developer in the field of Mobile and Web Development. I'm currently studying Android Development and taking a part in [this course](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true)
 
