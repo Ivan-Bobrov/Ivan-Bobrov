@@ -15,5 +15,6 @@
 
 ## You can find me ##
 
-![](https://www.codewars.com/users/VitasSalvantes/badges/large)
+[![Codewars](https://www.codewars.com/users/VitasSalvantes/badges/large)](https://www.codewars.com/dashboard)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true&theme=dark)
