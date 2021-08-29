@@ -1,12 +1,6 @@
 ## Hi, I'm Vitas👋 ##
 
-<center>
-<img src="assets\drawable\horizontal_logo.png" alt="logo" align></img>
-</center>
-
-## Who am I? ##
-
-I'm aspiring Software Developer in the field of Mobile and Web Development. I'm currently studying Android Development and attending [a course from Google](https://developer.android.com/courses/android-basics-kotlin/course).
+I'm beginning Software Developer in the field of Mobile and Web Development. I'm currently studying Android Development and attending [a course from Google](https://developer.android.com/courses/android-basics-kotlin/course).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true)
 
