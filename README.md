@@ -1,4 +1,4 @@
-## Hi, I'm Vitas👋 ##
+## Hi, I'm Vitas 👋🏻 ##
 
 I'm beginning Software Developer in the field of Mobile and Web Development. I'm currently studying Android Development and taking a part in [this course](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
