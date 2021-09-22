@@ -1,10 +1,10 @@
-## Hi, I'm Vitas 👋🏻 ##
+## Hi, I'm Vitas 👋🏻
 
 I'm beginning Software Developer in the field of Mobile and Web Development. I'm currently studying Android Development and taking a part in [this course](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true&theme=dark)](#)
 
-## What am I using? ##
+## What am I using?
 
 [![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 [![Spring](https://img.shields.io/badge/SPRING-black?style=for-the-badge&logo=spring)](https://spring.io/)
@@ -13,11 +13,11 @@ I'm beginning Software Developer in the field of Mobile and Web Development. I'm
 [![Bootstrap 5](https://img.shields.io/badge/BOOTSTRAP_5-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Kotlin](https://img.shields.io/badge/KOTLIN-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitassalvantes&theme=dark)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitassalvantes&hide=css&theme=dark)](#What-am-I-using?)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitasSalvantes&theme=dark)](https://wakatime.com/dashboard)
 
-## Where can you find me? ##
+## Where can you find me?
 
 [![Google Developers](https://img.shields.io/badge/GOOGLE_DEVELOPERS-black?style=for-the-badge&logo=android)](https://developers.google.com/profile/u/110036023562469232207)
 
