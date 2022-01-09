@@ -19,6 +19,6 @@ I'm a beginning Software Developer in the field of Mobile and Web Development. I
 
 ## Where can you find me?
 
-[![Google Developers](https://img.shields.io/badge/GOOGLE_DEVELOPERS-black?style=for-the-badge&logo=android)](https://developers.google.com/profile/u/110036023562469232207)
+[![Google Developers](https://img.shields.io/badge/GOOGLE_DEVELOPERS-black?style=for-the-badge&logo=android)](https://g.dev/vitas-salvantes)
 
 [![JetBrains Academy](https://img.shields.io/badge/JETBRAINS_ACADEMY-black?style=for-the-badge&logo=jetbrains)](https://hyperskill.org/profile/123362511)
