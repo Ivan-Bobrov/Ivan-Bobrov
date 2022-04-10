@@ -2,7 +2,7 @@
 
 I'm a student, currently taking a part in [Java for Beginners](https://hyperskill.org/tracks/8) course by JetBrains.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true&theme=dark)](#)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true&theme=dark)](#Hi,-I'm-Vitas)
 
 ## Technical skills 🔧
 
@@ -14,7 +14,7 @@ I'm a student, currently taking a part in [Java for Beginners](https://hyperskil
 [![Kotlin](https://img.shields.io/badge/KOTLIN-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-black?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitassalvantes&hide=css,html&theme=dark)](#What-am-I-using?)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitassalvantes&hide=css,html&theme=dark)](#Technical-skills)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitasSalvantes&theme=dark&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file)](https://wakatime.com/dashboard)
 
