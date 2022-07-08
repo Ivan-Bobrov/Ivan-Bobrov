@@ -1,6 +1,6 @@
 # Hi, I'm Vitas 👋🏻
 
-I'm a student, currently taking a part in [Java for Beginners](https://hyperskill.org/tracks/8) course by JetBrains.
+I'm a student, currently taking a part in [Frontend Developer](https://hyperskill.org/tracks/5) course by JetBrains.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true&theme=dark)](#Hi,-I'm-Vitas)
 
