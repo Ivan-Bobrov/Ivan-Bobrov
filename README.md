@@ -1,4 +1,4 @@
-# Hi, I'm Vitas 👋🏻
+# Hi, I'm Ivan 👋🏻
 
 I'm a student, currently taking a part in [Frontend Developer](https://hyperskill.org/tracks/5) course by JetBrains.
 
