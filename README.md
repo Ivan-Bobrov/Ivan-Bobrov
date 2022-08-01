@@ -8,8 +8,9 @@ I'm a student, currently taking a part in [Frontend Developer](https://hyperskil
 
 [![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 [![Spring](https://img.shields.io/badge/SPRING-black?style=for-the-badge&logo=spring)](https://spring.io/)
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
-[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap 5](https://img.shields.io/badge/BOOTSTRAP_5-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Kotlin](https://img.shields.io/badge/KOTLIN-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-black?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
