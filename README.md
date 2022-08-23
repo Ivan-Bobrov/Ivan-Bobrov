@@ -1,26 +1,46 @@
 # Hi, I'm Ivan 👋🏻
 
-I'm a student, currently taking a part in [Frontend Developer](https://hyperskill.org/tracks/5) course by JetBrains.
+![programmer](img/programmer.gif)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitassalvantes&count_private=true&show_icons=true&theme=dark)](#Hi,-I'm-Vitas)
+I'm studying **Applied Computer Science** at the [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/).
 
 ## Technical skills 🔧
 
-[![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
-[![Spring](https://img.shields.io/badge/SPRING-black?style=for-the-badge&logo=spring)](https://spring.io/)
-[![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap 5](https://img.shields.io/badge/BOOTSTRAP_5-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
-[![Kotlin](https://img.shields.io/badge/KOTLIN-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-black?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
+<p>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noopener">
+<img src="img/java-original.svg" title="Java" alt="Java" width="40" height="40">
+</a>
+<a href="https://spring.io/" target="_blank" rel="noopener">
+<img src="img/spring-original.svg" title="Spring" alt="Spring" width="40" height="40">
+</a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noopener">
+<img src="img/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40">
+</a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noopener">
+<img src="img/android-plain.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+<img src="img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
+<img src="img/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
+<img src="img/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40">
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener">
+<img src="img/git-original.svg" title="Git" alt="Git" width="40" height="40">
+</a>
+</p>
+ 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitasSalvantes&theme=dark&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file)](https://wakatime.com/@VitasSalvantes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitassalvantes&hide=css,html&theme=dark)](#Technical-skills)
+## Learn more 📋
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitasSalvantes&theme=dark&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file)](https://wakatime.com/dashboard)
+If you want to learn more about me, don't be shy and visit my [website](https://vitassalvantes.github.io/).
 
-## Check my profiles 💼
+## Joke of the day 🎉
 
-[![Google Developers](https://img.shields.io/badge/GOOGLE_DEVELOPERS-black?style=for-the-badge&logo=google)](https://g.dev/vitas-salvantes)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=ayu-mirage)
 
-[![JetBrains Academy](https://img.shields.io/badge/JETBRAINS_ACADEMY-black?style=for-the-badge&logo=jetbrains)](https://hyperskill.org/profile/123362511)
+![](https://hit.yhype.me/github/profile?user_id=62385609)
