@@ -28,6 +28,15 @@ I'm studying **Applied Computer Science** at the [Hamburg University of Applied 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
 <img src="img/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40">
 </a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="noopener">
+<img src="img\oracle-pl-sql--v3.png" title="Oracle DB" alt="Oracle DB" width="40" height="40">
+</a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noopener">
+<img src="img/c-plain.svg" title="C" alt="C" width="40" height="40">
+</a>
+<a href="https://developer.arm.com/documentation/dui0588/b/ARM-and-Thumb-Instructions/Instruction-summary?lang=en" target="_blank" rel="noopener">
+<img src="img/Arm-logo-reverse-white.svg" title="Thumb-2" alt="Thumb-2" width="40" height="40">
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
 <img src="img/git-original.svg" title="Git" alt="Git" width="40" height="40">
 </a>
