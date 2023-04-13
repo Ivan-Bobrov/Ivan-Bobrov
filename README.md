@@ -8,7 +8,6 @@ My passion for technology and innovation led me to pursue a degree in **Applied 
 
 ### TL;DR
 
-<p>
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
 <img src="img/git-original.svg" title="Git" alt="Git" width="40" height="40">
 </a>
@@ -38,7 +37,6 @@ My passion for technology and innovation led me to pursue a degree in **Applied 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
 <img src="img/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40">
 </a>
-</p>
 
 ### Programming Languages
 
