@@ -17,7 +17,7 @@ My passion for technology and innovation led me to pursue a degree in **Applied 
 <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noopener">
 <img src="img/android-plain.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40">
 </a>
-
+<br>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noopener">
 <img src="img/java-original.svg" title="Java" alt="Java" width="40" height="40">
 </a>
@@ -27,7 +27,7 @@ My passion for technology and innovation led me to pursue a degree in **Applied 
 <a href="https://spring.io/" target="_blank" rel="noopener">
 <img src="img/spring-original.svg" title="Spring" alt="Spring" width="40" height="40">
 </a>
-
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
 <img src="img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
 </a>
