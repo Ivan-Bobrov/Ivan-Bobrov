@@ -88,8 +88,6 @@ I'm so happy you're interested in me! You can find out more about me on my [webs
 
 ## Developer Dad Jokes 🤣
 
-<br>
+![](https://hit.yhype.me/github/profile?user_id=62385609)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=ayu-mirage)
-
-![](https://hit.yhype.me/github/profile?user_id=62385609)
