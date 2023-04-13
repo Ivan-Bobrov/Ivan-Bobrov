@@ -4,7 +4,7 @@
 
 My passion for technology and innovation led me to pursue a degree in **Applied Computer Science** at the [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/). Here, I get to learn from experienced professors and work on cutting-edge projects that challenge me to apply my skills and creativity. I love being part of this dynamic and diverse community of learners and thinkers!
 
-##  Hard skills 🛠
+##  Hard Skills 🛠
 
 ### TL;DR
 
@@ -40,9 +40,11 @@ My passion for technology and innovation led me to pursue a degree in **Applied 
 </a>
 </p>
 
-### Programming languages
+### Programming Languages
 
 I have learned different programming languages like **Java**, **Kotlin**, **C**, **Erlang**, **JavaScript**, **Python**, and **Assembly (Thumb-2)**. I enjoy exploring different paradigms and syntaxes, and I think each language has its own strengths and weaknesses. I also like to challenge myself with different problems and projects using these languages.
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ivan_Bobrov&theme=dark&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file,IDEA_MODULE,CLASS,CSV&langs_count=15)](https://wakatime.com/@Ivan_Bobrov)
 
 ### Android Development
 
@@ -68,7 +70,7 @@ I have also learned how to use **git** with [GitHub](https://github.com/) and [G
 
 I'm also used to modern IDEs and code editors such as **IntelliJ IDEA**, **WebStorm**, **DataGrip**, **VS Code**, etc. I think they are very helpful tools that make programming easier and more enjoyable. I like their features such as code completion, debugging, refactoring, testing, etc.
 
-### Future plans
+### Future Plans
 
 I'm always eager to learn something new and improve my skills. Right now, I'm interested in **web and enterprise development**. I want to learn more about **Java Spring** and how to create scalable and secure applications using this framework. I also want to learn more about cloud computing and how to use platforms such as [AWS](https://aws.amazon.com/) or [Azure](https://azure.microsoft.com/en-us/).
 
@@ -80,13 +82,7 @@ Another soft skill that I have is **teamwork**. I enjoy working with others and 
 
 A third soft skill that I have is **problem-solving**. I love challenges and finding solutions to them. I can **analyze** complex situations and break them down into manageable steps. I can also use my creativity and critical thinking skills to come up with **innovative and effective solutions**. I am always eager to learn new things and improve my skills.
 
-## My Programming Stats 📈
-
-<br>
- 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ivan_Bobrov&theme=dark&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file,IDEA_MODULE,CLASS,CSV&langs_count=15)](https://wakatime.com/@Ivan_Bobrov)
-
-## Let's connect! 🤙🏻
+## Let's Connect! 🤙🏻
 
 I'm so happy you're interested in me! You can find out more about me on my [website](https://ivan-bobrov.github.io/). It's easy to access and visually informative. Just check it out!
 
