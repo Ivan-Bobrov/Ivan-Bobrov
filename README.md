@@ -4,7 +4,7 @@
 
 My passion for technology and innovation led me to pursue a degree in **Applied Computer Science** at the [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/). Here, I get to learn from experienced professors and work on cutting-edge projects that challenge me to apply my skills and creativity. I love being part of this dynamic and diverse community of learners and thinkers!
 
-##  Hard Skills 🛠
+## Hard Skills 🛠
 
 ### TL;DR
 
@@ -85,7 +85,5 @@ A third soft skill that I have is **problem-solving**. I love challenges and fin
 I'm so happy you're interested in me! You can find out more about me on my [website](https://ivan-bobrov.github.io/). It's easy to access and visually informative. Just check it out!
 
 ## Developer Dad Jokes 🤣
-
-![](https://hit.yhype.me/github/profile?user_id=62385609)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=ayu-mirage)
