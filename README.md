@@ -1,6 +1,6 @@
 # Hi, I'm Ivan 👋🏻
 
-![programmer](img/programmer.gif)
+![logo](img/logo.png)
 
 My passion for technology and innovation led me to pursue a degree in **Applied Computer Science** at the [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/). Here, I get to learn from experienced professors and work on cutting-edge projects that challenge me to apply my skills and creativity. I love being part of this dynamic and diverse community of learners and thinkers!
 
