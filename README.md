@@ -7,7 +7,7 @@ I am
 - an **Applied Computer Science** student at the
 [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/).
 - currently in my **third year** of studies
-- looking for opportunities to apply my skills and knowledge in real-world projects. 
+- looking for opportunities to apply my skills and knowledge in real-world projects.
 - interested in **Enterprise Software Development** and **Cybersecurity**.
 
 ## Hard Skills 🛠
@@ -30,6 +30,9 @@ I mainly use
   projects, but I also have experience
   with [Visual Studio Code](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/),
   and [Android Studio](https://developer.android.com/studio).
+- [Microsoft Azure](https://azure.microsoft.com/) for application hosting, leveraging services such as
+  [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database/), [Azure AI Language](https://azure.microsoft.com/en-us/services/cognitive-services/language-service/),
+  and [Azure Spring Apps](https://azure.microsoft.com/en-us/services/spring-cloud/) in my projects.
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ivan_Bobrov&theme=dark&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file,IDEA_MODULE,CLASS,CSV,PHP&langs_count=15)](https://wakatime.com/@Ivan_Bobrov)
 
@@ -46,8 +49,8 @@ I mainly use
 ## Future Plans 📅
 
 Right now, I'm improving my **Spring** skills.
-I also want to learn more about **cloud computing** and how to use platforms such as [AWS](https://aws.amazon.com/) or
-[Azure](https://azure.microsoft.com/en-us/).
+I am keen on expanding my knowledge in **containerization** and **orchestration** technologies, specifically
+[Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), and the architecture of **microservices**.
 
 ## Let's Connect! 🤙🏻
 
